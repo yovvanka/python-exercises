@@ -1,4 +1,4 @@
-,Age,Sex,Chest pain type,Resting blood pressure,Serum cholesterol in mg/dl,Fasting blood sugar > 120 mg/dl,Resting electrocardiographic results,Maximum heart rate achieved,Exercise induced angina,ST depression induced by exercise relative to rest,Slope of the peak exercise ST segment,Number of major vessels,Thal defect,Disease
+Patient_id,Age,Sex,Chest pain type,Resting blood pressure,Serum cholesterol in mg/dl,Fasting blood sugar > 120 mg/dl,Resting electrocardiographic results,Maximum heart rate achieved,Exercise induced angina,ST depression induced by exercise relative to rest,Slope of the peak exercise ST segment,Number of major vessels,Thal defect,Disease
 0,52,male,0,125,212,False,1,168,False,1.0,2,2,3,False
 1,53,male,0,140,203,True,0,155,True,3.1,0,0,3,False
 2,70,male,0,145,174,False,1,125,True,2.6,0,0,3,False
